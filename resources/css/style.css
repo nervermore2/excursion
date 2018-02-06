@@ -1,13 +1,33 @@
+body{
+  background-color:Black;
+  text-align:center;
+    color:White;
+    font-family:Verdana;
+
+}
+
 h1{
-  font-family:Verdana;
-  font-weight:Normal;
+  font-weight:normal;
   font-size:50px;
-  color:White;
-  text-align:Centered;
+
+}
+
+h2{
+  font-weight:300;
+  font-size:42px;
 }
 
 .greenLink{
     color:Aquamarine;
     Font-size:16px;
-    <a href></a>;
+}
+
+.intro{
+  font-size:21px;
+  color:gray;
+}
+
+.brand{
+  text-align:right;
+  color:gray;
 }
